@@ -1,0 +1,5 @@
+1- entity framework de include sqlalchemy de nasýl
+2- projenin baþlangýç dosyasýný setleme
+3- Iisolation level nasýl (defalut read COmitted ) nasýl degiþir ? (sqlalchemy taraýndan nasýl degiþir)
+4- birden  fazla commitin transactionu nasýl yönetiliyor
+5- entity frame work de yapýlan mapleme nasýl yapýlýyor 
